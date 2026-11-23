@@ -3,7 +3,7 @@
   <rect x="0.5" y="0.5" width="1199" height="239" rx="12" fill="#161513" stroke="#efe9de" stroke-opacity="0.12" stroke-width="1"/>
 
   <!-- Left editorial typography (4px grid) -->
-  <text x="48" y="56" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="400" fill="#8f887d">Statistician · Public health and machine learning researcher</text>
+  <text x="48" y="56" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="400" fill="#8f887d">Public Health and ML Researcher</text>
   <text x="48" y="108" font-family="Georgia, 'Times New Roman', serif" font-size="40" font-weight="400" fill="#efe9de" letter-spacing="-0.4">Mezanur Rahman Sharukh</text>
 
   <line x1="48" y1="132" x2="664" y2="132" stroke="#efe9de" stroke-opacity="0.12" stroke-width="1"/>
